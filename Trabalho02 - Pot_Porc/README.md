@@ -40,7 +40,7 @@ Essa operação é fundamental em diversos contextos, como cálculos matemático
 - Rauany Martinez Secci - 13721217
 - Rhayna Christiani Vasconcelos Marques Casado - 13676429
 
-##Direitos Autorais
+## Direitos Autorais
 - O processador usado como base para o desenvolvimento de tais operações aritméticas consiste em um ambiente completo para ensinar e aprender arquitetura de computadores, projeto de processadores VHDL e linguagem Assembly.
 
 - O processador ICMC proposto foi projetado para ser simples, eficiente e fácil de ensinar e entender. Foi proposto como projeto principal para aulas de Organização de Computadores no ICMC-Universidade de São Paulo, em São Carlos, estado de São Paulo, Brasil.
